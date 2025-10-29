@@ -1,7 +1,11 @@
 File Compressor using Huffman Coding
 id	
+
 K24-2500	Yahya Riaz Khan
+
+
 K24-2582	Syed Afzaal Shah
+
 Introduction
 This project implements a File Compressor and Decompressor using Huffman Coding — a greedy algorithm that compresses data by assigning shorter binary codes to frequent characters and longer codes to rare ones. It demonstrates the practical use of data structures like trees, heaps, and maps in DSA.
 Description
